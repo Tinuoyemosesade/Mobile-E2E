@@ -1,0 +1,7 @@
+- install node v20
+- `npm install`
+- `cp .env.example .env`
+- add paths for the apps in .env file
+- update the device details in the config
+- add sample test and launch it
+- latest version of appium and drivers are used. Try to use devices with latest versions of android and ios platforms
